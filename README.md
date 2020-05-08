@@ -7,5 +7,5 @@ of the remiaining dimensions
 
 please use the test file to show the working
 
-NB the size of the 1D array has top be exactly the same size as the
+NB the size of the 1D array has to be exactly the same size as the
 first dimension of the multi-dimension array
